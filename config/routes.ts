@@ -36,6 +36,12 @@
 		component: './RandomUser',
 		icon: 'ArrowsAltOutlined',
 	},
+	{
+		path: '/quan-Li-nhan-vien',
+		name: 'Quản Lí Nhân Viên',
+		component: './QuanLiNhanVien',
+		icon: 'SnippetsOutlined',
+	},
 
 	// DANH MUC HE THONG
 	// {
